@@ -1,0 +1,60 @@
+{
+  "EXC": [
+    "Exelon Corporation",
+    "Exelon",
+    "EXC"
+  ],
+  "XEL": [
+    "Xcel Energy Inc.",
+    "Xcel Energy",
+    "XEL"
+  ],
+  "AEP": [
+    "American Electric Power Company, Inc.",
+    "American Electric Power Company",
+    "American Electric Power",
+    "AEP"
+  ],
+  "CEG": [
+    "Constellation Energy Corporation",
+    "Constellation Energy Corporatio",
+    "Constellation Energy",
+    "CEG"
+  ],
+  "MSFT": [
+    "Microsoft Corporation",
+    "Microsoft",
+    "MSFT"
+  ],
+  "GOOG": [
+    "Alphabet Inc.",
+    "Alphabet",
+    "GOOG"
+  ],
+  "AAPL": [
+    "Apple Inc.",
+    "Apple",
+    "AAPL"
+  ],
+  "AMZN": [
+    "Amazon.com, Inc.",
+    "Amazon.com",
+    "AMZN"
+  ],
+  "NVDA": [
+    "NVIDIA Corporation",
+    "NVIDIA",
+    "NVDA"
+  ],
+  "YPF": [
+    "Yacimientos Petrolíferos Fiscales", 
+    "YPF"
+  ],
+  "PAM": [
+    "Pampa Energía",
+    "Pampa Energia",
+    "Pampa Holding"
+  ]
+
+
+}
